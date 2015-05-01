@@ -1,0 +1,184 @@
+# This page contains the product insting information for safe pigment
+# 
+# Start a line with "#" to tell the program to ignore it
+# 
+# Start a line with "::" to begin a new product group
+#
+# Each product takes up 5 lines, for the following attributes:
+#		PRODUCT  	PRODUCT DESCRIPTION  	MSDS  	STATUS  	CODE 
+# if one attribute is missing, the line should contain "_"
+# Separate products with an empty line
+#
+#
+
+
+
+::Yellow Pigment
+
+<a href="./pdf/DS_IC.pdf">White Cloud Safe Yellow ICc</a>
+<a href="./pdf/DS_IC.pdf">Pigment Enhancer </a>
+<a href="./pdf/MSDS_SYIC.pdf">MSDS</a>
+S
+230
+
+# <a href="./pdf/DS_IC-Slurry.pdf">White Cloud Safe Yellow ICc Dispersion, Solvent Based</a>
+# <a href="./pdf/DS_IC-Slurry.pdf">Pigment Enhancer, 70% ICc</a>
+# <a href="./pdf/MSDS_IC_Slurry.pdf">MSDS</a>
+# S
+# 230S  
+
+# <a href="./pdf/DS_IC-Slurry.pdf">White Cloud Safe Yellow ICc Dispersion, Water Based</a>
+# <a href="./pdf/DS_IC-Slurry.pdf">Pigment Enhancer, 70% ICc</a>
+# <a href="./pdf/MSDS_IC_Slurry.pdf">MSDS</a>
+# S
+# 230W
+
+
+<a href="./pdf/DS_IC.pdf">White Cloud Safe Yellow ICh</a>
+<a href="./pdf/DS_IC.pdf">Pigment Enhancer </a>
+<a href="./pdf/MSDS_SYIC.pdf">MSDS</a>
+S
+260
+
+<a href="./pdf/DS_SY65c.pdf">White Cloud Safe Yellow 65c </a>
+<a href="./pdf/DS_SY65c.pdf">Hybrid Pigment - PY 65 and IC</a>
+<a href="./pdf/MSDS_SY65.pdf">MSDS</a>, <a href="./pdf/65C-DrawDown.jpg">DrawDown</a>
+S
+SY65
+
+<a href="./pdf/DS_SY74-hei.pdf">White Cloud Safe Yellow 74-Hei </a>
+<a href="./pdf/DS_SY74-hei.pdf">Hybrid Pigment - PY 74 & IC </a>
+<a href="./pdf/MSDS_SY74.pdf">MSDS</a>
+S
+SY74
+
+<a href="./pdf/DS_SY83n.pdf">White Cloud Safe Yellow 83c </a>
+<a href="./pdf/DS_SY83n.pdf">Hybrid Pigment - PY 83 & IC</a>
+<a href="./pdf/MSDS_SY83.pdf">MSDS</a>
+S
+SY83
+
+
+################################################################################
+
+::White Pigment
+  
+<a href="./pdf/DS_Blanc-Fixe-180P-198BT.pdf">Blanc Fixe -P</a>
+<a href="./pdf/DS_Blanc-Fixe-180P-198BT.pdf">Untreated </a>
+<a href="./pdf/MSDS_BlancFixe.pdf">MSDS</a>
+S
+180 P
+  
+# <a href="./pdf/DS_BlancFixe.pdf">Blanc Fixe - Ultra Fine</a>
+# <a href="./pdf/DS_BlancFixe.pdf">Surface Treated (0.4 um) </a>
+# <a href="./pdf/MSDS_BlancFixe.pdf">MSDS</a>
+# C
+# 198 AT 
+
+  
+<a href="./pdf/DS_Blanc-Fixe-180P-198BT.pdf">Blanc Fixe - Ultra Fine</a>
+<a href="./pdf/DS_Blanc-Fixe-180P-198BT.pdf">Surface Treated (0.7 um) </a>
+<a href="./pdf/MSDS_BlancFixe.pdf">MSDS</a>
+S
+198 BT  
+  
+<a href="./pdf/DS_R208-unTreated-Rutile.pdf">Titanium Dioxide - Rutile</a>
+<a href="./pdf/DS_R208-unTreated-Rutile.pdf">Untreated </a>
+<a href="./pdf/MSDS_TIO2-all.pdf">MSDS</a>
+S
+R208  
+  
+<a href="./pdf/DS_R255.pdf">Titanium Dioxide - Rutile</a>
+<a href="./pdf/DS_R255.pdf">Surface treated </a>
+<a href="./pdf/MSDS_TIO2-all.pdf">MSDS</a>
+S
+R255z/R255
+
+<a href="./pdf/DS_A121.pdf">Titanium Dioxide - Anatase</a>
+<a href="./pdf/DS_A121.pdf">General grade </a>
+<a href="./pdf/MSDS_TIO2-all.pdf">MSDS</a>
+S
+A121
+
+  
+<a href="./pdf/DS_A171.pdf">Titanium Dioxide - Anatase</a>
+<a href="./pdf/DS_A171.pdf">Fiber grade </a>
+<a href="./pdf/MSDS_TIO2-all.pdf">MSDS</a>
+S
+A171
+  
+<a href="./pdf/DS_WC30.pdf">White Cloud 30 Lithopone</a>
+<a href="./pdf/DS_WC30.pdf">30% ZnS </a>
+<a href="./pdf/MSDS_WhiteCloud-All.pdf">MSDS</a>
+S
+WC30
+
+<a href="./pdf/DS_BMB.pdf">Barium Metaborate </a>
+<a href="./pdf/DS_BMB.pdf">Anti - Corrosion Pigment</a>
+<a href="./pdf/MSDS_BMB.pdf">MSDS</a>
+S
+BMB  
+
+################################################################################
+
+::Food and USP Grade
+
+Ascorbic Acide
+Food & USP Grade
+MSDS
+S
+AA
+   
+<a href="./pdf/DS-CalciumCarbonate-Precipitated.pdf">Calcium Carbonate</a>
+<a href="./pdf/DS-CalciumCarbonate-Precipitated.pdf">USP Grade, Granular</a>
+<a href="./pdf/MSDS_CalciumCarbonate.pdf">MSDS</a>
+S
+CC305  
+  
+<a href="./pdf/DS_CalciumCitrate-granul.pdf">Calcium Citrate</a>
+<a href="./pdf/DS_CalciumCitrate-pwd.pdf">USP Grade, Granular/Powder</a>
+<a href="./pdf/MSDS_CalciumCitrate.pdf">MSDS</a>
+S
+CTG&CTP  
+  
+<a href="./pdf/DS_CitricAcid.pdf">Citric Acid</a>
+<a href="./pdf/DS_CitricAcid.pdf">Food & USP Grade </a>
+MSDS
+S
+CA
+
+################################################################################
+
+::Other Products
+
+<a href="./pdf/DS_EME1900.pdf">Epoxy Diluent</a>
+<a href="./pdf/DS_EME1900.pdf">Epoxide 8</a>
+<a href="./pdf/MSDS_EME1900.pdf">MSDS</a>
+S
+EME1900
+
+<a href="./pdf/DS_GlassBead.pdf">Glass Bead for Traffic Paint</a>
+<a href="./pdf/DS_GlassBead.pdf">US DOT, CalTran approval</a>
+<a href="./pdf/MSDS_GlassBead.pdf">MSDS</a>
+S
+GB
+  
+<a href="./pdf/DS_MicronizedIronOxideYellow.pdf">Iron Oxide - Micro </a>
+<a href="./pdf/DS_MicronizedIronOxideYellow.pdf">Yellow & Red</a>
+MSDS
+S
+G313m & H130m  
+  
+<a href="./pdf/DS_Fully-Refined-Wax.pdf">Paraffin Wax </a>
+<a href="./pdf/DS_Fully-Refined-Wax.pdf">Fully Refined/Semi Refined</a>
+<a href="./pdf/MSDS_Wax.pdf">MSDS</a>
+S
+Wax  
+  
+  
+Rosin Ester for Traffic Paint
+5% Caster Oil
+<a href="./pdf/MSDS_Rosin-Ester-Dr38CA.pdf">MSDS</a>
+S
+RE38
+
