@@ -21,12 +21,12 @@ layout: index
 {% for r in site.data.food %}
   <tr>
     <td>{{r.Name}}</td>
-    <td>{% if r.DSPDF %} <a href="{{r.DSPDF}}">link</a> {% endif %}</td>
+    <td>{% if r.DSPDF %} <a href="./files/pdf/{{r.DSPDF}}">link</a> {% endif %}</td>
     <td>{{r.Description}}</td>
     <td>{{r.MSDS}}</td>
     <td>{{r.Status}}</td>
     <td>{{r.Code}}</td>
-    <td>{% if r.PDF%}<a href="{{r.PDF}}">pdf</a>{% endif %}</td>
+    <td>{% if r.PDF%}<a href="./files/pdf/{{r.PDF}}">pdf</a>{% endif %}</td>
   </tr>
 {% endfor %}
 </table>
@@ -50,12 +50,12 @@ layout: index
 {% for r in site.data.white %}
   <tr>
     <td>{{r.Name}}</td>
-    <td>{% if r.DSPDF %} <a href="{{r.DSPDF}}">link</a> {% endif %}</td>
+    <td>{% if r.DSPDF %} <a href="./files/pdf/{{r.DSPDF}}">link</a> {% endif %}</td>
     <td>{{r.Description}}</td>
     <td>{{r.MSDS}}</td>
     <td>{{r.Status}}</td>
     <td>{{r.Code}}</td>
-    <td>{% if r.PDF%}<a href="{{r.PDF}}">pdf</a>{% endif %}</td>
+    <td>{% if r.PDF%}<a href="./files/pdf/{{r.PDF}}">pdf</a>{% endif %}</td>
   </tr>
 {% endfor %}
 
@@ -81,12 +81,12 @@ layout: index
 {% for r in site.data.yellow %}
   <tr>
     <td>{{r.Name}}</td>
-    <td>{% if r.DSPDF %} <a href="{{r.DSPDF}}">link</a> {% endif %}</td>
+    <td>{% if r.DSPDF %} <a href="./files/pdf/{{r.DSPDF}}">link</a> {% endif %}</td>
     <td>{{r.Description}}</td>
     <td>{{r.MSDS}}</td>
     <td>{{r.Status}}</td>
     <td>{{r.Code}}</td>
-    <td>{% if r.PDF%}<a href="{{r.PDF}}">pdf</a>{% endif %}</td>
+    <td>{% if r.PDF%}<a href="./files/pdf/{{r.PDF}}">pdf</a>{% endif %}</td>
   </tr>
 {% endfor %}
 
@@ -111,12 +111,12 @@ layout: index
 {% for r in site.data.other %}
   <tr>
     <td>{{r.Name}}</td>
-    <td>{% if r.DSPDF %} <a href="{{r.DSPDF}}">link</a> {% endif %}</td>
+    <td>{% if r.DSPDF %} <a href="./files/pdf/{{r.DSPDF}}">link</a> {% endif %}</td>
     <td>{{r.Description}}</td>
     <td>{{r.MSDS}}</td>
     <td>{{r.Status}}</td>
     <td>{{r.Code}}</td>
-    <td>{% if r.PDF%}<a href="{{r.PDF}}">pdf</a>{% endif %}</td>
+    <td>{% if r.PDF%}<a href="./files/pdf/{{r.PDF}}">pdf</a>{% endif %}</td>
   </tr>
 {% endfor %}
 
@@ -143,7 +143,7 @@ layout: index
     <td>{{r.MSDS}}</td>
     <td>{{r.Status}}</td>
     <td>{{r.Code}}</td>
-    <td>{% if r.PDF%}<a href="{{r.PDF}}">pdf</a>{% endif %}</td>
+    <td>{% if r.PDF%}<a href="./files/pdf/{{r.PDF}}">pdf</a>{% endif %}</td>
   </tr>
 {% endfor %}
 
